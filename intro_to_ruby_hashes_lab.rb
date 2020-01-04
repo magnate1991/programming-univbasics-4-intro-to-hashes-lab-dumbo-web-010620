@@ -9,15 +9,14 @@ my_hash ={ :first =>2,
   
 
 
-def id_generator
-  id_generator = { :id => 1 }
-  id_generator
-end
 
-def my_hash_creator(key, value)
+  id_generator = { :id => 1 }
+  
+
+
   my_hash_creator = {:key => value }
   my_hash_creator
-end
+
 
 def read_from_hash(hash, key)
   read_from_hash { "whale bone corset" => 5,
