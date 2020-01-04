@@ -19,7 +19,7 @@ my_hash ={ :first =>2,
  
 
 
-  read_from_hash { 
+  read_from_hash = { 
   :name "Sam",
   :age 2
   }
