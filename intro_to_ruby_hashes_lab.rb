@@ -23,7 +23,7 @@ my_hash ={ :first =>2,
   :name "Sam",
   :age 2
   }
-  read_from_hash [ "age" ]
+  read_from_hash [ :age ]
  
 
 update_counting_hash = { :hash => 3
