@@ -1,17 +1,13 @@
-def new_hash
-  {}
-end
+ new_hash = {}
 
-def my_hash 
-  { :first =>2, 
+my_hash ={ :first =>2, 
     :second =>1
   }
-end
 
-def pioneer
+
   pioneer = { :name => 'Grace Hopper'}
-  pioneer
-end
+  
+
 
 def id_generator
   id_generator = { :id => 1 }
