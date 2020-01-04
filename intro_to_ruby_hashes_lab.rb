@@ -15,8 +15,8 @@ my_hash ={ :first =>2,
 
 
   my_hash_creator = {:key => value }
-  my_hash_creator
-
+ 
+ 
 
 def read_from_hash(hash, key)
   read_from_hash { "whale bone corset" => 5,
