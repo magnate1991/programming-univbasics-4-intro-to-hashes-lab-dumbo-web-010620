@@ -22,7 +22,7 @@ my_hash ={ :first =>2,
   read_from_hash { "whale bone corset" => 5,
   "porcelain vase" => 2
   }
-  read_from_hash["porcelain vase"] = 3
+  read_from_hash["porcelain vase"]
  
 
 update_counting_hash = { :hash => 3
