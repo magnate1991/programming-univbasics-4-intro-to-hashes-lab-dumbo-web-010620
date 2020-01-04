@@ -20,8 +20,8 @@ my_hash ={ :first =>2,
 
 
   read_from_hash { 
-  :,
-  :porcelain vase => 2
+  :name "Sam",
+  :age 2
   }
   read_from_hash["porcelain vase"]
  
